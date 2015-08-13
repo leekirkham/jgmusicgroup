@@ -1,0 +1,64 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_boondocks.jpg" alt="Boondocks">
+            <h2>Boondocks<br><span>(Country Band)</span></h2>
+            <p>Boondocks is a classic &amp; modern country and foot tappin' variety band with one common theme: "make 'em move, make 'em smile, and make 'em want more!" Boondocks plays favorites, that mesh the best of hot guitar licks, multiple vocals/harmonies, and rhythms that just won't allow you to sit still. From corporate events, parties, and clubs to outdoor festivals, Boondocks will get you dancin’.</p>
+            <ul class="artist_social">
+                <li><a href="https://www.facebook.com/BoondocksCountryBand" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content">
+                    	<iframe class="YTvideo" src="//www.youtube.com/embed/4SxqHJUrOBs?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>Don't Rock The Jukebox</p>
+                        <audio src="audio/boondocks/dont_rock_the_jukebox.mp3" controls></audio>
+                        <p>Friends In Low Places</p>
+                        <audio src="audio/boondocks/friends_in_low_places.mp3" controls></audio>
+                        <p>I Love This Bar</p>
+                        <audio src="audio/boondocks/i_love_this_bar.mp3" controls></audio>
+                        <p>That's My Kind Of Night</p>
+                        <audio src="audio/boondocks/thats_my_kind_of_night.mp3" controls></audio>
+                        <p>Honey Bee</p>
+                        <audio src="audio/boondocks/honey_bee.mp3" controls></audio>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                    	<a href="docs/Boondocks_playlist_20141229.pdf" target="_blank" class="pdf">View Boondocks playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                    	<iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nmbbln1co19b9kd00n7l6lkvos%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="250" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                    <div id="tab5" class="tab_content minigallery">
+                        <a href="images/galleries/boondocks/boondocks_01.jpg" data-lightbox="minigallery-r80s" data-title="boondocks"><img src="images/galleries/boondocks/boondocks_01_T.jpg" alt="Boondocks" /></a>
+                        <a href="images/galleries/boondocks/boondocks_02.jpg" data-lightbox="minigallery-r80s" data-title="boondocks"><img src="images/galleries/boondocks/boondocks_02_T.jpg" alt="Boondocks" /></a>
+                        <a href="images/galleries/boondocks/boondocks_03.jpg" data-lightbox="minigallery-r80s" data-title="boondocks"><img src="images/galleries/boondocks/boondocks_03_T.jpg" alt="Boondocks" /></a>
+                        <a href="images/galleries/boondocks/boondocks_04.jpg" data-lightbox="minigallery-r80s" data-title="boondocks"><img src="images/galleries/boondocks/boondocks_04_T.jpg" alt="Boondocks" /></a>
+                        <a href="images/galleries/boondocks/boondocks_05.jpg" data-lightbox="minigallery-r80s" data-title="boondocks"><img src="images/galleries/boondocks/boondocks_05_T.jpg" alt="Boondocks" /></a>
+                    </div> 
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_cover_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

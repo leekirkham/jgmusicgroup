@@ -1,0 +1,52 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_10 breakouts">
+        <div class="cat_buttons">
+            <div>
+                <a href="cover_bands.shtml"><img src="images/button_coverbands.png" alt="Cover Bands"></a>
+            </div>
+            <div>
+                <a href="tribute_bands.shtml"><img src="images/button_tributebands.png" alt="Tribute Bands"></a>
+            </div>
+            <div>
+                <a href="entertainers.shtml"><img src="images/button_entertainers.png" alt="DJs, Entertainers and More" style="margin-left: 5px;"></a>
+            </div>
+        </div>
+        <div class="clear" style="height: 15px;">&nbsp;</div>
+        <div class="grid_2 alpha">
+            <div>
+                <h3>Management</h3>
+                <p>JGMG provides consultation, venue placement and guidance in helping artists and bands become successful.</p>
+            </div>
+        </div>
+        <div class="grid_2">
+            <div>
+                <h3>Bands/Musicians</h3>
+                <p>Bands &amp; Musicians available to perform for all types of events large or small, (weddings, parties, corporate events, etc.)</p>
+            </div>
+        </div>
+        <div class="grid_2">
+            <div>
+                <h3>Disc Jockey (DJ)</h3>
+                <p>JGMG provides the top wedding, club and party Disc Jockeys nationwide.</p>
+            </div>
+        </div>
+        <div class="grid_2">
+            <div>
+                <h3>Entertainers</h3>
+                <p>JGMG provides all types of entertainers including:  magicians, comedians, impersonators, jugglers, face painters &amp; more.</p>
+            </div>
+        </div>
+        <div class="grid_2 omega">
+            <div>
+                <h3>Studios</h3>
+                <p>Recording studio options to meet your recording needs. Our studio rates are the best. (Studio musicians available upon request.)</p>
+            </div>
+        </div>  
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

@@ -1,0 +1,15 @@
+<div class="cat_list tribute">
+    <h3>Tribute Bands</h3>
+    <ul>
+        <li><a href="sweet_cherry_pie.shtml">Sweet Cherry Pie</a></li>
+        <li><a href="the_whip_its.shtml">The Whip It's</a></li>
+        <li><a href="confederate_outlaws.shtml">Confederate Outlaws</a></li>
+        <li><a href="grungefix.shtml">GrungeFix</a></li>
+        <li><a href="southwest_surfers.shtml">Southwest Surfers</a></li>
+        <li><a href="rock_steady.shtml">Rock Steady</a></li>
+        <li><a href="perfect_strangers.shtml">Perfect Strangers</a></li>
+        <li><a href="hellrazzors.shtml">HellRazzors</a></li>
+        <li><a href="green_daze.shtml">Green Daze</a></li>
+        <li><a href="skyntite.shtml">SkynTite</a></li>
+    </ul>
+</div>

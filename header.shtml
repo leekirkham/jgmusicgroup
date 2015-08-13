@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style_common.css">
+        <link rel="stylesheet" href="css/tabs_styles.css">
+        <link rel="stylesheet" href="css/lightbox.css">
+        <meta charset="utf-8">
+        <meta name="description" content="J. G. Music Group. Musical and Entertainment performance, production, and management in Phoenix Arizona.">
+        <meta name="keywords" content="JG Music Group, Josh Gerston, entertainment for hire, musical performance, studio recording, performance management, JG and the Modrockers, The Lounge Katz, SkynTyte, Southwest Surfers, Green Daze, Radiologic, boondocks, RadioStar, The Hound Dawgs, cover bands, magicians, jugglers, face painting, Phoenix, Arizona">
+        <link rel="shortcut icon" href="images/favicon.ico">
+        <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="scripts/tabs.js"></script>
+        <script src="js/lightbox.min.js"></script>
+        <script type="text/javascript">
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=111182266398";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        
+            var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-41072026-1']);
+                _gaq.push(['_trackPageview']);
+            
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        <title>JG Music Group - Your Choice for Music and Entertainment</title>
+    </head>
+    <body>
+    <div class="container_12">
+        <header>
+            <div class="fb-like" data-href="http://www.jgmusicgroup.net" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+            <a href="index.shtml"><img src="images/record.png" id="record" alt="record"></a>
+            <a href="index.shtml"><img src="images/logo_slogan_header.png" id="logo" alt="JG Music Group, Your Choice for Music and Entertainment"></a>
+            <p id="contact_info">Call: <span style="margin-right: 30px;"><a href="tel:4805804082">480.580.4082</a></span> E-mail: <span><a href="mailto:jgmusicgroup@gmail.com">jgmusicgroup@gmail.com</a></span></p>
+            <nav>
+                <ul>
+                    <li>Cover Bands
+                        <ul>
+                            <li><a href="lounge_katz.shtml" title="Variety Band">The Lounge Katz</a></li>
+                            <li><a href="radio_logic.shtml" title="House, Pop, Rock, Hip Hop, 80's Band">RadioLogic</a></li>
+                            <li><a href="jazz_in_time.shtml" title="Jazz, Smooth Jazz, Big Band Music">Jazz In Time</a></li>
+                            <li><a href="boondocks.shtml" title="Country Band">Boondocks</a></li>
+                            <li><a href="bluegrass_river_band.shtml" title="Bluegrass Band">The Bluegrass River Band</a></li>
+                            <li><a href="jgbongoman_project.shtml" title="Percussive Band">JGBongoman Project</a></li>
+                            <li><a href="radio_80s.shtml" title="1980's Radio Hits Band">Radio80s</a></li>
+                            <li><a href="rhythm_and_bongos.shtml" title="Acoustic Music">Rhythm &amp; Bongos</a></li>
+                            <li><a href="radio_star.shtml" title="House/Top 40 Dance Band">RadioStar</a></li>
+                            <li><a href="hound_dawgs.shtml" title="50's / 60's Cover Band">The Houndawgs</a></li>
+                            <li><a href="jg_modrockers.shtml" title="Classic & Current Radio Rock Band - Gig Masters Best of 2014 Award Winner" class="award">JG &amp; The Modrockers</a></li>
+                            <li><a href="bongo_island.shtml" title="Reggae, Pop, Jam, Island Music">Bongo Island Band</a></li>
+                        </ul>
+                    </li>
+                    <li>Tribute Bands
+                        <ul>
+                            <li><a href="sweet_cherry_pie.shtml" title="80's Rock/Hair/Glam Tribute Band">Sweet Cherry Pie</a></li>
+                            <li><a href="the_whip_its.shtml" title="80's New Wave Tribute Band">The Whip It's</a></li>
+                            <li><a href="confederate_outlaws.shtml" title="Southern Rock Tribute Band">Confederate Outlaws</a></li>
+                            <li><a href="grungefix.shtml" title="Grunge, Alternative, Seattle-Sound Tribute Band">GrungeFix</a></li>
+                            <li><a href="southwest_surfers.shtml" title="Beach Boys Tribute Band">Southwest Surfers</a></li>
+                            <li><a href="rock_steady.shtml" title="Bad Company Tribute Band">Rock Steady</a></li>
+                            <li><a href="perfect_strangers.shtml" title="Deep Purple Tribute Band">Perfect Strangers</a></li>
+                            <li><a href="hellrazzors.shtml" title="ZZ Top Tribute Band">HellRazzors</a></li>
+                            <li><a href="green_daze.shtml" title="Green Day Tribute Band">Green Daze</a></li>
+                            <li><a href="skyntite.shtml" title="70's Disco Show Band">SkynTite</a></li>
+                        </ul>
+                    </li>
+                    <li>DJs, KJs &amp; Entertainers
+                        <ul>
+                            <li><a href="jgbongoman.shtml" title="Solo Entertainer/ Vibe Elevator">JGBongoman</a></li>
+                            <li><a href="djbongoman.shtml" title="Disc Jockey, Emcee &amp; Karaoke Host">DJBongoman</a></li>
+                            <li><a href="piano_man.shtml" title="Piano Music">The Piano Man</a></li>
+                            <li><a href="dueling_pianos.shtml" title="Piano Duo">Dueling Pianos</a></li>
+                            <li><a href="vocal_heroes.shtml" title="Live Karaoke Band">Vocal Heroes Karaoke Band</a></li>
+                            <li><a href="80s_beyond_show.shtml" title="Retro 80s Show Act">JG's 80's &amp; Beyond Show</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>

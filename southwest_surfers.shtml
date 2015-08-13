@@ -1,0 +1,62 @@
+<!--#include virtual="header.shtml" -->    
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_southwest_surfers.jpg" alt="Southwest Surfers">
+            <h2>Southwest Surfers<br><span>(Beach Boys Tribute Band)</span></h2>
+            <p>The Southwest Surfers are a Beach Boys tribute band, oldies band, and surf band. Able to provide a wide variety of live music services performing oldies music, surf music, and a energetic tribute to the Beach Boys.</p>
+            <ul class="artist_social">
+                <li><a href="http://www.myspace.com/southwestbeachbums" target="_blank"><img src="images/icon_myspace.png" alt="Connect with Us on MySpace" title="Connect with Us on MySpace"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content">
+                        <iframe class="YTvideo" src="https://www.youtube.com/embed/H_t9WQbAF84" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>Surfin' Safari</p>
+                        <audio src="audio/southwest_surfers/surfin_safari.mp3" controls></audio>
+                        <p>Don't Worry Baby</p>
+                        <audio src="audio/southwest_surfers/dont_worry_baby.mp3" controls></audio>
+                        <p>Help Me Rhonda</p>
+                        <audio src="audio/southwest_surfers/help_me_rhonda.mp3" controls></audio>
+                        <p>Barbara Ann</p>
+                        <audio src="audio/southwest_surfers/barbara_ann.mp3" controls></audio>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/Southwest-Surfers_playlist_20141229.pdf" target="_blank" class="pdf">View Southwest Surfers playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <p><a href="http://thesouthwestsurfers.com/calendar/" target="_blank" style="color: #f90;">Check our Schedule for upcoming performances</a></p>
+                    </div>
+                    <div id="tab5" class="tab_content minigallery">
+                        <a href="images/galleries/southwest_surfers/southwest_surfers_01.jpg" data-lightbox="minigallery-sws" data-title="Southwest-Surfers"><img src="images/galleries/southwest_surfers/southwest_surfers_01_T.jpg" alt="Southwest Surfers" /></a>
+                        <a href="images/galleries/southwest_surfers/southwest_surfers_02.jpg" data-lightbox="minigallery-sws" data-title="Southwest-Surfers"><img src="images/galleries/southwest_surfers/southwest_surfers_02_T.jpg" alt="Southwest Surfers" /></a>
+                        <a href="images/galleries/southwest_surfers/southwest_surfers_03.jpg" data-lightbox="minigallery-sws" data-title="Southwest-Surfers"><img src="images/galleries/southwest_surfers/southwest_surfers_03_T.jpg" alt="Southwest Surfers" /></a>
+                        <a href="images/galleries/southwest_surfers/southwest_surfers_04.jpg" data-lightbox="minigallery-sws" data-title="Southwest-Surfers"><img src="images/galleries/southwest_surfers/southwest_surfers_04_T.jpg" alt="Southwest Surfers" /></a>
+                        <a href="images/galleries/southwest_surfers/southwest_surfers_05.jpg" data-lightbox="minigallery-sws" data-title="Southwest-Surfers"><img src="images/galleries/southwest_surfers/southwest_surfers_05_T.jpg" alt="Southwest Surfers" /></a>
+                    </div> 
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_tribute_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

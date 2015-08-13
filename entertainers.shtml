@@ -1,0 +1,25 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_10 cat_landing entertainers">
+    	<div>
+        	<h2>DJs, KJs &amp; ENTERTAINERS</h2>
+            <ul>
+                <li><h3><a href="jgbongoman.shtml">JGBongoman</a></h3>(Solo Entertainer/Vibe Elevator)</li>
+                <li><h3><a href="djbongoman.shtml">DJBongoman</a></h3>(Disc Jockey)</li>
+            </ul>
+            <ul>
+                <li><h3><a href="piano_man.shtml">The Piano Man</a></h3>(Piano Music)</li>
+                <li><h3><a href="vocal_heroes.shtml">Vocal Heroes<br>Karaoke Band</a></h3>(Live Karaoke Band)</li>
+            </ul>
+            <ul>
+                <li><h3><a href="dueling_pianos.shtml">Dueling Pianos</a></h3>(Piano Duo)</li>
+                <li><h3><a href="80s_beyond_show.shtml">JG's 80's<br>&amp; Beyond Show</a></h3>(Retro 80's Show Act)</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

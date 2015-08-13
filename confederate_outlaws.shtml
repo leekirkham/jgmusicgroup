@@ -1,0 +1,60 @@
+<!--#include virtual="header.shtml" -->    
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_confederate_outlaws.jpg" alt="Confederate Outlaws">
+            <h2>Confederate Outlaws<br><span>(Southern Rock Tribute Band)</span></h2>
+            <p>Re-creating the image, the music, and the attitude of southern rock bands that took the world by storm in the 1970's and early 1980's.</p>
+            <ul class="artist_social">
+                <li><a href="https://www.facebook.com/southernrockboys" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media audio" href="#tab1" rel="tab1">Audio</a></li>
+                        <li><a class="media video" href="#tab2" rel="tab2">Video</a></li>
+                        <li><a class="media camera" href="#tab3" rel="tab3">Photos</a></li>
+                        <li><a class="media list" href="#tab4" rel="tab4">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab5" rel="tab5">Schedule</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content" style="display: block;">
+                        <p>Call Me The Breeze</p>
+                        <audio src="audio/confederate_outlaws/call_me_the_breeze.mp3" controls></audio>
+                        <p>Cold Shot</p>
+                        <audio src="audio/confederate_outlaws/cold_shot.mp3" controls></audio>
+                        <p>Sweet Home Alabama</p>
+                        <audio src="audio/confederate_outlaws/sweet_home_alabama.mp3" controls></audio>
+                        <p>Jesus Just Left Chicago</p>
+                        <audio src="audio/confederate_outlaws/jesus_just_left_chicago.mp3" controls></audio>
+                        <p>Can't You See</p>
+                        <audio src="audio/confederate_outlaws/cant_you_see.mp3" controls></audio>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>Video Coming Soon!</p>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        Gallery Coming Soon!
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <a href="docs/Confederate-outlaws_playlist_20150120.pdf" target="_blank" class="pdf">View Confederate Outlaws playlist</a>
+                    </div>
+                    <div id="tab5" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=v332rlg5jvqs3df5j20m2jpuec%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="250" style="border: none; overflow: hidden;"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_tribute_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

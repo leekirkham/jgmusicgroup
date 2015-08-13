@@ -1,0 +1,54 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_BongoIsland.jpg" alt="Bong Island Band">
+            <h2>Bongo Island Band<br><span>(Reggae, Pop, Jam, Island Music)</span></h2>
+            <p>Bongo Island Band is here to save the day with their island stylings of some of the world’s most exciting music. Grab a coconut drink, a shady spot to lay, and groove with the best&hellip;Bongo Island Band.</p>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content">
+                        <video width="540" controls>
+                        	<source src="media/bongo_island_band.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>The Way You Do The Things You Do</p>
+                        <audio src="audio/bongo_island_band/the_things_you_do.mp3" controls></audio>
+                        <p>Kokomo</p>
+                        <audio src="audio/bongo_island_band/kokomo.mp3" controls></audio>
+                        <p>Stir It Up</p>
+                        <audio src="audio/bongo_island_band/stir_it_up.mp3" controls></audio>
+                        <p>Volcano</p>
+                        <audio src="audio/bongo_island_band/volcano.mp3" controls></audio>       
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/Bongo-Island-Band_playlist_20150114.pdf" target="_blank" class="pdf">View Bongo Island Band playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hth1m9hsoja3svipp7jmir50a8%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="250" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_cover_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

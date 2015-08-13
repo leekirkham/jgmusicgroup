@@ -1,0 +1,66 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_JgModrockers.jpg" alt="JG and the Modrockers">
+            <h2>JG &amp; The Modrockers<br><span>(Classic &amp; Current Radio Rock Band)</span></h2>
+            <p>Let JG &amp; the Modrockers keep you rocking with their sonic assault of classic and current hits guaranteed to get every foot tapping and everybody moving to the beat.</p>
+            <ul class="artist_social">
+                <li><a href="http://www.myspace.com/jgandthemodrockers" target="_blank"><img src="images/icon_myspace.png" alt="Connect with Us on MySpace" title="Connect with Us on MySpace"></a></li>
+            </ul>
+            <div class="clear">&nbsp;</div>
+            <img src="images/banner_best-of-2014.jpg" alt="Gig Masters Best of 2014" style="width: 582px; margin-top: 20px;">
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content">
+                        <iframe class="YTvideo" src="//www.youtube.com/embed/QsQ70CLKuDY?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>My Best Friend's Girl</p>
+                        <audio src="audio/modrockers/best_friends_girl.mp3" controls></audio>
+                        <p>Good Love Is On The Way</p>
+                        <audio src="audio/modrockers/good_love_on_way.mp3" controls></audio>
+                        <p>Dani California</p>
+                        <audio src="audio/modrockers/dani_california.mp3" controls></audio>
+                        <p>Do Ya</p>
+                        <audio src="audio/modrockers/do_ya.mp3" controls></audio>
+                        <p>A Hard Day's Night</p>
+                        <audio src="audio/modrockers/hard_days_night.mp3" controls></audio>      
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/JG-Modrockers_playlist_20141229.pdf" target="_blank" class="pdf">View  JG &amp; the Modrockers playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5hv0lst8jst5e0sjsstlj434rc%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="250" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                    <div id="tab5" class="tab_content minigallery">
+                        <a href="images/galleries/modrockers/modrockers_01.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_01_T.jpg" alt="JG & the Modrockers" /></a>
+                        <a href="images/galleries/modrockers/modrockers_02.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_02_T.jpg" alt="JG & the Modrockers" /></a>
+                        <a href="images/galleries/modrockers/modrockers_03.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_03_T.jpg" alt="JG & the Modrockers" /></a>
+                        <a href="images/galleries/modrockers/modrockers_04.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_04_T.jpg" alt="JG & the Modrockers" /></a>
+                        <a href="images/galleries/modrockers/modrockers_05.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_05_T.jpg" alt="JG & the Modrockers" /></a>
+                    </div> 
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_cover_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

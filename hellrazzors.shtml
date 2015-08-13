@@ -1,0 +1,62 @@
+<!--#include virtual="header.shtml" -->    
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_hellrazzors.jpg" alt="Hellrazzors">
+            <h2>HellraZZors<br><span>(ZZ Top Tribute Band)</span></h2>
+            <p>This three man tribute to rock music's best known Texan boogie band, are back to "Tear the house down!" Complete with guitars, the moves and over two hours of Hot Rodded Rock 'n' Roll!</p>
+            <ul class="artist_social">
+                <li><a href="http://www.facebook.com/HELLRAZZORS" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media audio" href="#tab1" rel="tab1">Audio</a></li>
+                        <li><a class="media video" href="#tab2" rel="tab2">Video</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content" style="display: block;">
+                        <p>Tush</p>
+                        <audio src="audio/hellrazzors/tush.mp3" controls></audio>
+                        <p>Legs</p>
+                        <audio src="audio/hellrazzors/legs.mp3" controls></audio>
+                        <p>La Grange</p>
+                        <audio src="audio/hellrazzors/la_grange.mp3" controls></audio>
+                        <p>Gimmie All Your Lovin'</p>
+                        <audio src="audio/hellrazzors/gimmie_all_your_lovin.mp3" controls></audio>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>Video coming soon!</p>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/HellraZZors_playlist_20141230.pdf" target="_blank" class="pdf">View HellraZZors playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=360&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=i5in4rd7agiqvondalei6j4o30%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FPhoenix" style=" border:0; overflow: hidden;" width="540" height="360"></iframe>
+                    </div>
+                    <div id="tab5" class="tab_content minigallery">
+                        <a href="images/galleries/hellrazzors/hellrazzors_01.jpg" data-lightbox="minigallery-hr" data-title="HellraZZors!"><img src="images/galleries/hellrazzors/hellrazzors_01_T.jpg" alt="HellraZZors!" /></a>
+                        <a href="images/galleries/hellrazzors/hellrazzors_02.jpg" data-lightbox="minigallery-hr" data-title="HellraZZors!"><img src="images/galleries/hellrazzors/hellrazzors_02_T.jpg" alt="HellraZZors!" /></a>
+                        <a href="images/galleries/hellrazzors/hellrazzors_03.jpg" data-lightbox="minigallery-hr" data-title="HellraZZors!"><img src="images/galleries/hellrazzors/hellrazzors_03_T.jpg" alt="HellraZZors!" /></a>
+                        <a href="images/galleries/hellrazzors/hellrazzors_04.jpg" data-lightbox="minigallery-hr" data-title="HellraZZors!"><img src="images/galleries/hellrazzors/hellrazzors_04_T.jpg" alt="HellraZZors!" /></a>
+                        <a href="images/galleries/hellrazzors/hellrazzors_05.jpg" data-lightbox="minigallery-hr" data-title="HellraZZors!"><img src="images/galleries/hellrazzors/hellrazzors_05_T.jpg" alt="HellraZZors!" /></a>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_tribute_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

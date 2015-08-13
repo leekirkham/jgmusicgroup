@@ -1,0 +1,60 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_Radio80s.jpg" alt="Radio80s">
+            <h2>Radio80s<br><span>(1980's Radio Hits Band)</span></h2>
+            <p>Radio80s covers all the great, fun, dance and party hits that were popular in the 1980s. Radio80s plays rock, pop, disco, funk, reggae, performing at casinos, resorts, weddings, clubs, bars and more. The band is very interactive in there performances which includes the dress look and vibe of the 80s era . </p>
+            <ul class="artist_social">
+                <li><a href="http://www.facebook.com/radio80sband" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div>            
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                     <div id="tab1" class="tab_content">
+                        <iframe class="YTvideo" src="//www.youtube-nocookie.com/embed/8s4mPp3IYYY?rel=0" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>80's Medley</p>
+                        <audio src="audio/radio80s/segue_demo.mp3" controls></audio>
+                        <p>My Sharona</p>
+                        <audio src="audio/radio80s/my_sharona.mp3" controls></audio>
+                        <p>Sharp Dressed Man</p>
+                        <audio src="audio/radio80s/sharp_dressed_man.mp3" controls></audio>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/Radio80s_playlist_20150108.pdf" target="_blank" class="pdf">View Radio80s playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=aphr0onb1fuv62eah0geaucsqg%40group.calendar.google.com&amp;color=%23853104&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="250" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                    <div id="tab5" class="tab_content minigallery">
+                        <a href="images/galleries/radio_80s/radio80s_01.jpg" data-lightbox="minigallery-r80s" data-title="Radio80s"><img src="images/galleries/radio_80s/radio80s_01_T.jpg" alt="Radio80s" /></a>
+                        <a href="images/galleries/radio_80s/radio80s_02.jpg" data-lightbox="minigallery-r80s" data-title="Radio80s"><img src="images/galleries/radio_80s/radio80s_02_T.jpg" alt="Radio80s" /></a>
+                        <a href="images/galleries/radio_80s/radio80s_03.jpg" data-lightbox="minigallery-r80s" data-title="Radio80s"><img src="images/galleries/radio_80s/radio80s_03_T.jpg" alt="Radio80s" /></a>
+                        <a href="images/galleries/radio_80s/radio80s_04.jpg" data-lightbox="minigallery-r80s" data-title="Radio80s"><img src="images/galleries/radio_80s/radio80s_04_T.jpg" alt="Radio80s" /></a>
+                        <a href="images/galleries/radio_80s/radio80s_05.jpg" data-lightbox="minigallery-r80s" data-title="Radio80s"><img src="images/galleries/radio_80s/radio80s_05_T.jpg" alt="Radio80s" /></a>
+                    </div> 
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_cover_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

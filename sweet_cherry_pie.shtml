@@ -1,0 +1,65 @@
+<!--#include virtual="header.shtml" -->    
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_sweet_cherry_pie.jpg" alt="Sweet Cherry Pie">
+            <h2>Sweet Cherry Pie<br><span>(80's Rock/Hair/Glam Tribute Band)</span></h2>
+            <p>Take a musical ride to the 1980s when big hair, tight pants and excess in all things ushered in some of the most anthemic party rock of all time. Sweet Cherry Pie entertains audiences of all ages with the trademark party rock classics that defined an era that included bands like Bon Jovi, Poison, Mötley Crüe, Twisted Sister, RATT, AC/DC, Van Halen, Def Leppard and more.</p>
+            <ul class="artist_social">
+            	<li><a href="http://www.sweetcherrypieband.com/" target="_blank" class="btn_website">Visit Our Website</a></li>
+                <li><a href="http://www.facebook.com/jgmusicgroup" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media audio" href="#tab1" rel="tab1">Audio</a></li>
+                        <li><a class="media video" href="#tab2" rel="tab2">Video</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content" style="display: block;">
+                        <p>Panama</p>
+                        <audio src="audio/sweet_cherry_pie/panama.mp3" controls></audio>
+                        <p>Crazy Train</p>
+                        <audio src="audio/sweet_cherry_pie/crazy_train.mp3" controls></audio>
+                        <p>Nothing But A Good Time</p>
+                        <audio src="audio/sweet_cherry_pie/nothin_but_a_good_time.mp3" controls></audio>
+                        <p>Once Bitten, Twice Shy</p>
+                        <audio src="audio/sweet_cherry_pie/once_bitten_twice_shy.mp3" controls></audio>
+                        <p>Sweet Child O' Mine</p>
+                        <audio src="audio/sweet_cherry_pie/sweet_child_o_mine.mp3" controls></audio>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <iframe width="540" height="304" src="//www.youtube.com/embed/2VleH5HBhSQ?rel=0&amp;controls=0&amp;showinfo=0" style="border: none; overflow: hidden;" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/Sweet-cherry-pie_playlist_20150108.pdf" target="_blank" class="pdf">View Sweet Cherry Pie playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l10hqdpbrkp7ie1skq0cb2jrng%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="250" style="border: none; overflow: hidden;"></iframe>
+                    </div>
+                    <div id="tab5" class="tab_content minigallery">
+                        <a href="images/galleries/sweet_cherry_pie/scp_09.jpg" data-lightbox="minigallery-scp" data-title="Sweet Cherry Pie"><img src="images/galleries/sweet_cherry_pie/scp_09_T.jpg" alt="SCP Rocks!" /></a>
+                        <a href="images/galleries/sweet_cherry_pie/scp_11.jpg" data-lightbox="minigallery-scp" data-title="Sweet Cherry Pie"><img src="images/galleries/sweet_cherry_pie/scp_11_T.jpg" alt="SCP Rocks!" /></a>
+                        <a href="images/galleries/sweet_cherry_pie/scp_13.jpg" data-lightbox="minigallery-scp" data-title="Sweet Cherry Pie"><img src="images/galleries/sweet_cherry_pie/scp_13_T.jpg" alt="SCP Rocks!" /></a>
+                        <a href="images/galleries/sweet_cherry_pie/scp_07.jpg" data-lightbox="minigallery-scp" data-title="Sweet Cherry Pie"><img src="images/galleries/sweet_cherry_pie/scp_07_T.jpg" alt="SCP Rocks!" /></a>
+                        <a href="images/galleries/sweet_cherry_pie/scp_14.jpg" data-lightbox="minigallery-scp" data-title="Sweet Cherry Pie"><img src="images/galleries/sweet_cherry_pie/scp_14_T.jpg" alt="SCP Rocks!" /></a>
+                    </div>  
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_tribute_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

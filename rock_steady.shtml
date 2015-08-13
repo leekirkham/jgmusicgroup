@@ -1,0 +1,61 @@
+<!--#include virtual="header.shtml" -->    
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_RockSteady.jpg" alt="Rock Steady">
+            <h2>Rock Steady<br><span>(Bad Company Tribute Band)</span></h2>
+            <p>Rock Steady performs with the same energy and power as its namesake, to give the fans what they would demand from Bad Company itself.</p>
+            <ul class="artist_social">
+            	<li><a href="http://www.rocksteadytributeband.com/" target="_blank" class="btn_website">Visit Our Website</a></li>
+                <li><a href="https://www.facebook.com/rock.steady.737" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a></li>
+            </ul>
+            <p style="text-align: center; overflow: hidden; float: right;"><a href="docs/rock-steady-tribute-band_epk-v4.pdf" target="_blank" class="pdf">Download our electronic press kit</a></p>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content">
+                        <iframe class="YTvideo" src="https://www.youtube.com/embed/s93SH6poHbM" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>Live For The Music</p>
+                        <audio src="audio/rock_steady/live_for_the_music.mp3" controls></audio>
+                        <p>Run With The Pack</p>
+                        <audio src="audio/rock_steady/running_with_the_pack.mp3" controls></audio>
+                        <p>Can't Get Enough</p>
+                        <audio src="audio/rock_steady/cant_get_enough.mp3" controls></audio>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/Rock-steady_playlist_20150101.pdf" target="_blank" class="pdf">View Rock Steady's playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=360&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vl67ck5jok9aggpela6eja0vb0%40group.calendar.google.com&amp;color=%23853104&amp;ctz=America%2FPhoenix" style=" border:0; overflow: hidden; " width="540" height="360"></iframe>
+                    </div>
+                    <div id="tab5" class="tab_content minigallery">
+                        <a href="images/galleries/rock_steady/rock_steady_01.jpg" data-lightbox="minigallery-rs" data-title="Rock Steady"><img src="images/galleries/rock_steady/rock_steady_01_T.jpg" alt="Rock Steady" /></a>
+                        <a href="images/galleries/rock_steady/rock_steady_02.jpg" data-lightbox="minigallery-rs" data-title="Rock Steady"><img src="images/galleries/rock_steady/rock_steady_02_T.jpg" alt="Rock Steady" /></a>
+                        <a href="images/galleries/rock_steady/rock_steady_03.jpg" data-lightbox="minigallery-rs" data-title="Rock Steady"><img src="images/galleries/rock_steady/rock_steady_03_T.jpg" alt="Rock Steady" /></a>
+                        <a href="images/galleries/rock_steady/rock_steady_04.jpg" data-lightbox="minigallery-rs" data-title="Rock Steady"><img src="images/galleries/rock_steady/rock_steady_04_T.jpg" alt="Rock Steady" /></a>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_tribute_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

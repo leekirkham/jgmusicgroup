@@ -1,0 +1,53 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_jazz_in_time.jpg" alt="Jazz in Time">
+            <h2>Jazz In Time<br><span>(Jazz, Smooth Jazz, Big Band Music)</span></h2>
+            <p>A sophisticated ambiance, perfect for Cocktail Parties, Wine Tastings, Dinner Music, Weddings, Rehearsal Dinners, Christmas Music for Christmas Parties, High School Proms for romantics, Fund Raisers, Galas, Grand Openings and Corporate Events.</p>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media audio" href="#tab1" rel="tab1">Audio</a></li>
+                        <li><a class="media video" href="#tab2" rel="tab2">Video</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content" style="display: block;">
+                        <p>Let There Be Love</p>
+                        <audio src="audio/jazz_in_time/let_there_be_love.mp3" controls></audio>
+                        <p>Powder Your Face With Sunshine</p>
+                        <audio src="audio/jazz_in_time/powder_your_face_with_sunshine.mp3" controls></audio>
+                        <p>New York, New York</p>
+                        <audio src="audio/jazz_in_time/new_york_new_york.mp3" controls></audio>
+                        <p>Georgia On My Mind</p>
+                        <audio src="audio/jazz_in_time/georgia_on_my_mind.mp3" controls></audio>
+                        <p>Sway</p>
+                        <audio src="audio/jazz_in_time/sway.mp3" controls></audio>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        Video coming soon!
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/Jazz-in-time_playlist_20150127.pdf" target="_blank" class="pdf">View Jazz in Time playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=faellf27nkn9eda0ppahgk96vc%40group.calendar.google.com&amp;color=%2329527A&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="250" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_cover_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

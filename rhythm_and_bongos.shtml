@@ -1,0 +1,56 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_bongoman_acoustic_duo.jpg" alt="Bongoman Acoustic Duo">
+            <h2>Rhythm &amp; Bongos<br><span>(Acoustic Music)</span></h2>
+            <p>Who knew that two people could deliver such a full, rich and satisfying sound? We did! Rhythm &amp; Bongos is right at home, whether you are hosting an intimate get together with friends, or planning a corporate event. Experience the power of two!</p>
+            <ul class="artist_social">
+                <li><a href="http://www.facebook.com/people/Bongoman-Acoustic-Duo/100002396206790" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content">
+                        <iframe class="YTvideo" src="//www.youtube.com/embed/gPhSjmrpTH8?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content" style="display: block;">
+                        <p>I'm Yours</p>
+                        <audio src="audio/bongoman_duo/im_yours.mp3" controls></audio>
+                        <p>Santeria</p>
+                        <audio src="audio/bongoman_duo/santeria.mp3" controls></audio>
+                        <p>Sitting, Waiting, Wishing</p>
+                        <audio src="audio/bongoman_duo/sitting_waiting_wishing.mp3" controls></audio>
+                        <p>Steal My Kisses</p>
+                        <audio src="audio/bongoman_duo/steal_my_kisses.mp3" controls></audio>
+                        <p>Three Little Birds</p>
+                        <audio src="audio/bongoman_duo/three_little_birds.mp3" controls></audio> 
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/rhythm-bongos-playlist_20150319.pdf" target="_blank" class="pdf">View Rhythm &amp; Bongos playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=360&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=h0iobf96kc9kvm1vpsrdha4r4s%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=America%2FPhoenix" style=" border-width:0; overflow: hidden;" width="540" height="360"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_cover_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

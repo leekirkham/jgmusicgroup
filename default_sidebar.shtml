@@ -1,0 +1,39 @@
+<ul class="social">
+    <li><a href="https://www.facebook.com/pages/JG-Music-Group/116515758437408" target="_blank"><img src="images/icon_facebook.jpg" alt="Facebook"></a></li>
+    <li><a href="http://www.myspace.com/jgmusicgroup" target="_blank"><img src="images/icon_myspace.jpg" alt="MySpace"></a></li>
+</ul>
+<div class="clear" style="height: 10px;">&nbsp;</div>
+<img src="images/arrow_reserve_today.png" alt="Reserve your entertainment today!">
+<div style="text-align: center;">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="EEZR4J7Z62LBY">
+        <table style="width: 100%;">
+        	<tr>
+            	<td style="color: #f60; font-size: 11px; font-weight: bold; text-shadow: 0px 0px 2px #000; text-align: center;">
+        			<input type="hidden" name="on0" value="Deposit">MAKE DEPOSIT HERE
+        		</td>
+        	</tr>
+            <tr>
+            	<td>
+                    <select name="os0">
+                        <option value="$25.00">$25.00 USD</option>
+                        <option value="$50.00">$50.00 USD</option>
+                        <option value="$75.00">$75.00 USD</option>
+                        <option value="$100.00">$100.00 USD</option>
+                        <option value="$175.00">$175.00 USD</option>
+                        <option value="$200.00">$200.00 USD</option>
+                        <option value="$250.00">$250.00 USD</option>
+                        <option value="$300.00">$300.00 USD</option>
+                        <option value="$500.00">$500.00 USD</option>
+                        <option value="$1000.00">$1000.00 USD</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+        <input type="hidden" name="currency_code" value="USD">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" style="margin-top: 5px; border: none;">
+        <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" style="border: none;">
+    </form>
+    <div class="clear_10">&nbsp;</div>
+</div>

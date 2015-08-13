@@ -1,0 +1,19 @@
+    <footer>
+        <div class="copyright">
+			<script type="text/javascript"> 
+            <!--
+            var now = new Date();
+            document.write('&copy;' + now.getFullYear() + ' JG Music Group. All rights reserved. Powered by <a href="mailto:ljkmedia@cox.net">LJK Media</a>.');
+            -->
+            </script><br>
+            <ul id="linkouts">
+                <li><a href="http://www.bandmix.com/jg-music-group/" target="_blank"><img src="images/logo_sml_bandmix.jpg" alt="Band Mix"></a></li>
+                <li><a href="http://www.gigsalad.com/jgmusic" target="_blank"><img src="images/logo_sml_gig_salad.png" alt="Gig Salad"></a></li>
+                <li><a href="http://www.thumbtack.com/az/mesa/band/live-music-entertainment" target="_blank"><img src="images/logo_sml_thumbtack.png" alt="Thumbtack"></a></li>
+                <li><a href="http://www.wedding.com/wedding-vendors/az/mesa/dj/j.g.-music-group/160831" target="_blank"><img src="images/logo_sml_weddingcom.png" alt="Wedding.com"></a></li>
+            </ul>
+        </div>
+    </footer>
+</div>
+</body>
+</html>

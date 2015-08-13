@@ -1,0 +1,57 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_jgbongoman_project.jpg" alt="JGBongoman Project">
+            <h2>JGBongoman Project<br><span>(Jam, Pop, Reggae, Rock, and Percussive Music)</span></h2>
+            <p>JGBongoman Project reproduces the timeless music of many genres with a percussified sound as well as doing original music.</p>
+            <ul class="artist_social">
+                <li><a href="http://www.facebook.com/jgbongoman" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a></li>
+                <li><a href="https://twitter.com/jgbongoman" target="_blank"><img src="images/icon_twitter.png" alt="Follow Us on Twitter" title="Like Us on Facebook"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div> 
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content">                        
+                        <iframe class="YTvideo" src="https://www.youtube.com/embed/278y7-X-OwQ?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>Sympathy For The Devil</p>
+                        <audio src="audio/jgbongoman_project/sympathy_for_the_devil.mp3" controls></audio>
+                        <p>Black Magic Woman</p>
+                        <audio src="audio/jgbongoman_project/black_magic_woman.mp3" controls></audio>
+                        <p>I Shot The Sherriff</p>
+                        <audio src="audio/jgbongoman_project/i_shot_the_sherriff.mp3" controls></audio>
+                        <p>Willie And The Hand Jive</p>
+                        <audio src="audio/jgbongoman_project/willie_and_the_hand_jive.mp3" controls></audio>
+                        <p>Take Me To The River</p>
+                        <audio src="audio/jgbongoman_project/take_me_to_the_river.mp3" controls></audio> 
+                    </div>
+                     <div id="tab3" class="tab_content">                        
+                        <a href="docs/jg-bongoman-project-playlist_20150319.pdf" target="_blank" class="pdf">View JGBongoman Project playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=360&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=1n7bp9vims1admidv84ud0m4m8%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FPhoenix" style=" border:0; overflow: hidden;" width="540" height="360"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_cover_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

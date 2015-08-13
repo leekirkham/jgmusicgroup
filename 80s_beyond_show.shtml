@@ -1,0 +1,57 @@
+<!--#include virtual="header.shtml" -->    
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_80s_beyond.jpg" alt="JG's 80's and Beyond Show">
+            <h2>JG's 80's &amp; Beyond Show<br><span>(Retro 80's Show Act)</span></h2>
+            <p>JG is the frontman for JG's 80's and Beyond Project. JG performs solo with custom track arrangements or with his full band. JG covers renditions of the timeless classic radio hits as well as his own original music for events for all occasions.</p>
+            <ul class="artist_social">
+                <li><a href="https://www.facebook.com/groups/102492779786462/" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media audio" href="#tab1" rel="tab1">Audio</a></li>
+                        <li><a class="media video" href="#tab2" rel="tab2">Video</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content" style="display: block;">
+                        <p>Broken Wings</p>
+                        <audio src="audio/80s_beyond_show/broken_wings.mp3" controls></audio>
+                        <p>Don't You Forget About Me</p>
+                        <audio src="audio/80s_beyond_show/dont_you_forget_about_me.mp3" controls></audio>
+                        <p>Burning Down the House</p>
+                        <audio src="audio/80s_beyond_show/burning_down_the_house.mp3" controls></audio>
+                        <p>Legs</p>
+                        <audio src="audio/80s_beyond_show/legs.mp3" controls></audio>
+                        <p>In Your Eyes</p>
+                        <audio src="audio/80s_beyond_show/in_your_eyes.mp3" controls></audio>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>Video coming soon!</p>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <p>Playlist coming soon!</p>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <p>
+                        	<iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=350&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=233ia9vdi9cgmo8ists58ve0d8%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="350" frameborder="0" scrolling="no"></iframe>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_entertainers.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

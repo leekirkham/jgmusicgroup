@@ -1,0 +1,65 @@
+<!--#include virtual="header.shtml" -->    
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_grungefix.jpg" alt="GrungeFix">
+            <h2>GrungeFix<br><span>(Grunge, Alternative, Seatlle-Sound Tribute Band)</span></h2>
+            <p>GrungeFix takes you back to the early 90’s when grunge rock ruled. With a set list that includes mainstream radio hits as well as diehard fan favorites. GrungeFix will transport you back in time and let you experience the Seattle-Sound, the way it is meant to be remembered.</p>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media audio" href="#tab1" rel="tab1">Audio</a></li>
+                        <li><a class="media video" href="#tab2" rel="tab2">Video</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content" style="display: block;">
+                        <p>Lithium</p>
+                        <audio src="audio/grunge_fix/lithium.mp3" controls></audio>
+                        <p>Creep</p>
+                        <audio src="audio/grunge_fix/creep.mp3" controls></audio>
+                        <p>Rooster</p>
+                        <audio src="audio/grunge_fix/rooster.mp3" controls></audio>
+                        <p>Outshined</p>
+                        <audio src="audio/grunge_fix/outshined.mp3" controls></audio>
+                        <p>Even Flow</p>
+                        <audio src="audio/grunge_fix/even_flow.mp3" controls></audio>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>Video coming soon</p>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <!--<a href="docs/JG-Modrockers_playlist_20141229.pdf" target="_blank" class="pdf">View  JG &amp; the Modrockers playlist</a>-->
+                        <a href="docs/grungefix-playlist_20150319.pdf" target="_blank" class="pdf">View GrungeFix playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                    	<p>Schedule coming soon</p>
+                        <!--<iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5hv0lst8jst5e0sjsstlj434rc%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="250" frameborder="0" scrolling="no"></iframe>-->
+                    </div>
+                    <div id="tab5" class="tab_content minigallery">
+                    	<p>Photos coming soon</p>
+                        <!--<a href="images/galleries/modrockers/modrockers_01.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_01_T.jpg" alt="JG & the Modrockers" /></a>
+                        <a href="images/galleries/modrockers/modrockers_02.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_02_T.jpg" alt="JG & the Modrockers" /></a>
+                        <a href="images/galleries/modrockers/modrockers_03.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_03_T.jpg" alt="JG & the Modrockers" /></a>
+                        <a href="images/galleries/modrockers/modrockers_04.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_04_T.jpg" alt="JG & the Modrockers" /></a>
+                        <a href="images/galleries/modrockers/modrockers_05.jpg" data-lightbox="minigallery-jgmr" data-title="JG & the Modrockers"><img src="images/galleries/modrockers/modrockers_05_T.jpg" alt="JG & the Modrockers" /></a>
+                        -->
+                    </div> 
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_tribute_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

@@ -1,0 +1,43 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+        	<img src="images/artist_vocal_heroes.jpg" alt="Vocal Heroes">
+            <h2>Vocal Heroes<br>Karaoke Band<br><span>(Live Karaoke Band)</span></h2>
+            <p>Vocal Heroes is a live Karaoke band that perform a great mix of music in a Karaoke style format using a live band with singers singing there favorite songs. The band performs for events for all occasions.</p>
+            <ul class="artist_social">
+                <li><a href="https://www.facebook.com/vocal.heroe" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a></li>
+            </ul>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media calendar" href="#tab2" rel="tab2">Schedule</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content">
+                        <iframe class="YTvideo" src="//www.youtube-nocookie.com/embed/T1Y6fjqTaD8?rel=0" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=360&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=qbonk67pem7neoq0m0f7ga3qns%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=America%2FPhoenix" style=" border:0; overflow: hidden;" width="540" height="360"></iframe>
+                    </div>             
+                    <div id="tab3" class="tab_content">
+                        <a href="docs/Vocal-heroes_playlist_20150127.pdf" target="_blank" class="pdf">View Vocal Heroes Karaoke Band playlist</a>
+                    </div>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_entertainers.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

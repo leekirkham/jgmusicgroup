@@ -1,0 +1,31 @@
+<!--#include virtual="header.shtml" -->
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_10 cat_landing cover">
+    	<div>
+        	<h2>COVER BANDS</h2>
+            <ul>
+                <li><h3><a href="lounge_katz.shtml">The Lounge Katz</a></h3>(Variety Band)</li>
+                <li><h3><a href="radio_logic.shtml">RadioLogic</a></h3>(House, Pop, Rock, 80's Band)</li>
+                <li><h3><a href="jazz_in_time.shtml">Jazz In Time</a></h3>(Jazz, Smooth Jazz, Big Band Music)</li>
+                <li><h3><a href="boondocks.shtml">Boondocks</a></h3>(Country Band)</li>
+            </ul>
+            <ul>
+                <li><h3><a href="bluegrass_river_band.shtml">The Bluegrass River Band</a></h3>(Bluegrass Band)</li>
+                <li><h3><a href="jgbongoman_project.shtml">JGBongoman Project</a></h3>(Percussive Band)</li>
+                <li><h3><a href="radio_80s.shtml">Radio80s</a></h3>(1980's Radio Hits Band)</li>
+                <li><h3><a href="rhythm_and_bongos.shtml">Rhythm &amp; Bongos</a></h3>(Acoustic Music)</li>
+            </ul>
+            <ul>
+                <li><h3><a href="radio_star.shtml">RadioStar</a></h3>(House/Top40 Dance Band)</li>
+                <li><h3><a href="hound_dawgs.shtml">The Houndawgs</a></h3>(50's/60's Cover Band)</li>
+                <li style="margin-bottom: 15px;"><h3><a href="jg_modrockers.shtml">JG &amp; The Modrockers</a></h3>(Classic and Current Radio Rock Band)<br><span style="display: inline-block; color: #f60;">Gig Masters Best of 2014 Award Winner</span></li>
+                <li><h3><a href="bongo_island.shtml">Bongo Island Band</a></h3>(Reggae, Pop, Jam, Island Music)</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->

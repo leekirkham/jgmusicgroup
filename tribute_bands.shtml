@@ -1,0 +1,29 @@
+<!--#include virtual="header.shtml" -->    
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_10 cat_landing tribute">
+    	<div>
+        	<h2>TRIBUTE BANDS</h2>
+            <ul>
+                <li><h3><a href="sweet_cherry_pie.shtml">Sweet Cherry Pie</a></h3>(80's Rock/Hair/Glam Tribute Band)</li>
+                <li><h3><a href="the_whip_its.shtml">The Whip It's</a></h3>(80's New Wave Tribute Band)</li>
+                <li><h3><a href="confederate_outlaws.shtml">Confederate Outlaws</a></h3>(Southern Rock Tribute Band)</li>
+            </ul>
+            <ul>
+            	<li><h3><a href="grungefix.shtml">GrungeFix</a></h3>(Grunge, Seattle-Sound Tribute Band)</li>
+                <li><h3><a href="southwest_surfers.shtml">Southwest Surfers</a></h3>(Beach Boys Tribute Band)</li>
+                <li><h3><a href="rock_steady.shtml">Rock Steady</a></h3>(Bad Company Tribute Band)</li>
+                <li><h3><a href="perfect_strangers.shtml">Perfect Strangers</a></h3>(Deep Purple Tribute Band)</li>
+            </ul>
+            <ul>
+            	<li><h3><a href="hellrazzors.shtml">HellRazzors</a></h3>(ZZ Top Tribute Band)</li>
+                <li><h3><a href="green_daze.shtml">Green Daze</a></h3>(Green Day Tribute Band)</li>
+                <li><h3><a href="skyntite.shtml">SkynTite</a></h3>(70's Disco Show Band)</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->
