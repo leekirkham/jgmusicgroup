@@ -17,15 +17,18 @@
             <div class="tabs_wrapper">
                 <div id="original_tabs">
                     <ul>
-                        <li class="active"><a class="media audio" href="#tab1" rel="tab1">Audio</a></li>
-                        <li><a class="media video" href="#tab2" rel="tab2">Video</a></li>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
                         <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
                         <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
                         <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
                     </ul>
                 </div>
                 <div id="original_tabs_content">
-                    <div id="tab1" class="tab_content" style="display: block;">
+                    <div id="tab1" class="tab_content">
+                        <iframe width="540" height="304" src="//www.youtube.com/embed/2VleH5HBhSQ?rel=0&amp;controls=0&amp;showinfo=0" style="border: none; overflow: hidden;" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
                         <p>Panama</p>
                         <audio src="audio/sweet_cherry_pie/panama.mp3" controls></audio>
                         <p>Crazy Train</p>
@@ -36,9 +39,6 @@
                         <audio src="audio/sweet_cherry_pie/once_bitten_twice_shy.mp3" controls></audio>
                         <p>Sweet Child O' Mine</p>
                         <audio src="audio/sweet_cherry_pie/sweet_child_o_mine.mp3" controls></audio>
-                    </div>
-                    <div id="tab2" class="tab_content">
-                        <iframe width="540" height="304" src="//www.youtube.com/embed/2VleH5HBhSQ?rel=0&amp;controls=0&amp;showinfo=0" style="border: none; overflow: hidden;" allowfullscreen></iframe>
                     </div>
                     <div id="tab3" class="tab_content">
                         <a href="docs/Sweet-cherry-pie_playlist_20150108.pdf" target="_blank" class="pdf">View Sweet Cherry Pie playlist</a>
