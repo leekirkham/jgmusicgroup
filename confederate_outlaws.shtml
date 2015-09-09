@@ -39,9 +39,13 @@
                     <div id="tab2" class="tab_content">
                         <p>Video Coming Soon!</p>
                     </div>
-                    <div id="tab3" class="tab_content">
-                        Gallery Coming Soon!
-                    </div>
+                    <div id="tab3" class="tab_content minigallery">
+                        <a href="images/galleries/confederate_outlaws/confed-outlaws-01.jpg" data-lightbox="minigallery-confed-outlaws" data-title="confederate-outlaws"><img src="images/galleries/confederate_outlaws/confed-outlaws-01-T.jpg" alt="Confederate Outlaws" /></a>
+                        <a href="images/galleries/confederate_outlaws/confed-outlaws-02.jpg" data-lightbox="minigallery-confed-outlaws" data-title="confederate-outlaws"><img src="images/galleries/confederate_outlaws/confed-outlaws-02-T.jpg" alt="Confederate Outlaws" /></a>
+                        <a href="images/galleries/confederate_outlaws/confed-outlaws-03.jpg" data-lightbox="minigallery-confed-outlaws" data-title="confederate-outlaws"><img src="images/galleries/confederate_outlaws/confed-outlaws-03-T.jpg" alt="Confederate Outlaws" /></a>
+                        <a href="images/galleries/confederate_outlaws/confed-outlaws-04.jpg" data-lightbox="minigallery-confed-outlaws" data-title="confederate-outlaws"><img src="images/galleries/confederate_outlaws/confed-outlaws-04-T.jpg" alt="Confederate Outlaws" /></a>
+                        <a href="images/galleries/confederate_outlaws/confed-outlaws-05.jpg" data-lightbox="minigallery-confed-outlaws" data-title="confederate-outlaws"><img src="images/galleries/confederate_outlaws/confed-outlaws-05-T.jpg" alt="Confederate Outlaws" /></a>
+                    </div> 
                     <div id="tab4" class="tab_content">
                         <a href="docs/Confederate-outlaws_playlist_20150120.pdf" target="_blank" class="pdf">View Confederate Outlaws playlist</a>
                     </div>
