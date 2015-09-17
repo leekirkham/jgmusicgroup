@@ -6,8 +6,8 @@
     </div>
     <div class="grid_8">
         <div class="artist">
-            <img src="images/artist_jd_acoustic.jpg" alt="JD Acoustic">
-            <h2>JD Acoustic</h2>
+            <img src="images/artist_jd_acoustic.jpg" alt="JD's Acoustic Show">
+            <h2>JD's Acoustic Show</h2>
             <p>Acoustic rock? Alternative? Americana? Originals? Covers (over 300 of 'em)? What difference does it make? J.D. Plays songs you want to hear&hellip;and that's all you really need to know!</p>
             <!--<ul class="artist_social">
                 <li><a href="https://www.facebook.com/groups/102492779786462/" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook"></a></li>
@@ -16,27 +16,36 @@
             <div class="tabs_wrapper">
                 <div id="original_tabs">
                     <ul>
-                        <li class="active"><a class="media camera" href="#tab1" rel="tab1">Photos</a></li>
-                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
-                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
-                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media camera" href="#tab2" rel="tab2">Photos</a></li>
+                        <li><a class="media audio" href="#tab3" rel="tab3">Audio</a></li>
+                        <li><a class="media list" href="#tab4" rel="tab4">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab5" rel="tab5">Schedule</a></li>
                     </ul>
                 </div>
                 <div id="original_tabs_content">
-                    <div id="tab1" class="tab_content minigallery">
+                    <div id="tab1" class="tab_content">
+                       <iframe class="YTvideo" src="https://www.youtube.com/embed/Wd-ja6JjVxE?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content minigallery">
                         <a href="images/galleries/jd_acoustic/jd-acoustic-01.jpg" data-lightbox="minigallery-jdacoustic" data-title="jdacoustic"><img src="images/galleries/jd_acoustic/jd-acoustic-01-T.jpg" alt="JD Acoustic" /></a>
                         <a href="images/galleries/jd_acoustic/jd-acoustic-02.jpg" data-lightbox="minigallery-jdacoustic" data-title="jdacoustic"><img src="images/galleries/jd_acoustic/jd-acoustic-02-T.jpg" alt="JD Acoustic" /></a>
                         <a href="images/galleries/jd_acoustic/jd-acoustic-03.jpg" data-lightbox="minigallery-jdacoustic" data-title="jdacoustic"><img src="images/galleries/jd_acoustic/jd-acoustic-03-T.jpg" alt="JD Acoustic" /></a>
                         <a href="images/galleries/jd_acoustic/jd-acoustic-04.jpg" data-lightbox="minigallery-jdacoustic" data-title="jdacoustic"><img src="images/galleries/jd_acoustic/jd-acoustic-04-T.jpg" alt="JD Acoustic" /></a>
                         <a href="images/galleries/jd_acoustic/jd-acoustic-05.jpg" data-lightbox="minigallery-jdacoustic" data-title="jdacoustic"><img src="images/galleries/jd_acoustic/jd-acoustic-05-T.jpg" alt="JD Acoustic" /></a>
                     </div> 
-                    <div id="tab2" class="tab_content">
-                       <p>Audio coming soon</p>
-                    </div>
                     <div id="tab3" class="tab_content">
-                        <p>Playlist coming soon!</p>
+                       <p>Forever Mine for Now</p>
+                        <audio src="audio/jd-acoustic-show/forever-mine-for-now.mp3" controls></audio>
+                        <p>It's Just You</p>
+                        <audio src="audio/jd-acoustic-show/its-just-you.mp3" controls></audio>
+                        <p>You Are</p>
+                        <audio src="audio/jd-acoustic-show/you-are.mp3" controls></audio>
                     </div>
                     <div id="tab4" class="tab_content">
+                        <p>Playlist coming soon!</p>
+                    </div>
+                    <div id="tab5" class="tab_content">
                         <p>Schedule coming soon!
                             <!--<iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=350&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=233ia9vdi9cgmo8ists58ve0d8%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="350" frameborder="0" scrolling="no"></iframe>-->
                         </p>
