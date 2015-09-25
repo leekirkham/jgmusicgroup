@@ -38,6 +38,7 @@
         <header>
             <div class="fb-like" data-href="http://www.jgmusicgroup.net" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
             <a href="index.shtml"><img src="images/record.png" id="record" alt="record"></a>
+            <a href="index.shtml"><img src="https://static.thumbtack.com/media/widgets/featured-pro.png" alt="Thumbtack Best Pro of 2015" style="position: absolute; top: 60px; left: 70px; z-index: 500;"></a>
             <a href="index.shtml"><img src="images/logo_slogan_header.png" id="logo" alt="JG Music Group, Your Choice for Music and Entertainment"></a>
             <p id="contact_info">Call: <span style="margin-right: 30px;"><a href="tel:4805804082">480.580.4082</a></span> E-mail: <span><a href="mailto:jgmusicgroup@gmail.com">jgmusicgroup@gmail.com</a></span></p>
             <nav>
