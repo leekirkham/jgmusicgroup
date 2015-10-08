@@ -8,7 +8,7 @@
         <div class="artist">
         	<img src="images/artist_the_whip_its.jpg" alt="The Whip It's">
             <h2>The Whip It's<br><span>(80's New Wave Tribute Band)</span></h2>
-            <p>The Whip Its are ready to bring back the memories with all your favorite hits from the 80’s! The Whip It's are more than just a cover band - they are a totally awesome, true '80s experience!</p>
+            <p>The Whip It's are ready to bring back the memories with all your favorite hits from the 80’s! The Whip It's are more than just a cover band - they are a totally awesome, true '80s experience!</p>
             <ul class="artist_social">
                 <li><a href="https://www.facebook.com/WhipitsBand" target="_blank"><img src="images/icon_facebook.png" alt="Like Us on Facebook" title="Like Us on Facebook"></a></li>
             </ul>
@@ -16,21 +16,21 @@
             <div class="tabs_wrapper">
                 <div id="original_tabs">
                     <ul>
-                        <li class="active"><a class="media audio" href="#tab1" rel="tab1">Audio</a></li>
-                        <li><a class="media video" href="#tab2" rel="tab2">Video</a></li>
+                        <li class="active"><a class="media video" href="#tab2" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab1" rel="tab2">Audio</a></li>
                         <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
                         <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
                     </ul>
                 </div>
                 <div id="original_tabs_content">
-                    <div id="tab1" class="tab_content" style="display: block;">
+                    <div id="tab1" class="tab_content">
+                       <iframe class="YTvideo" src="https://www.youtube.com/embed/YbT85X1KWIA?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
                         <p>80's Medley #1</p>
                         <audio src="audio/whip_its/new_wave_medley_01.mp3" controls></audio>
                         <p>80's Medley #2</p>
                         <audio src="audio/whip_its/new_wave_medley_02.mp3" controls></audio>
-                    </div>
-                    <div id="tab2" class="tab_content">
-                       <p>Video Coming Soon!</p>
                     </div>
                     <div id="tab3" class="tab_content">
                         <a href="docs/The-whip-its_playlist_20150122.pdf" target="_blank" class="pdf">View The Whip It's playlist</a>
