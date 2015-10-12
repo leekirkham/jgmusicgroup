@@ -3,7 +3,7 @@
 			<script type="text/javascript"> 
             <!--
             var now = new Date();
-            document.write('&copy;' + now.getFullYear() + ' JG Music Group. All rights reserved. Powered by <a href="mailto:ljkmedia@cox.net">LJK Media</a>.');
+            document.write('&copy;' + now.getFullYear() + ' JG Entertainment Group. All rights reserved. Powered by <a href="mailto:ljkmedia@cox.net">LJK Media</a>.');
             -->
             </script><br>
             <ul id="linkouts">
