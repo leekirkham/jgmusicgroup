@@ -38,11 +38,23 @@
         <header>
             <div class="fb-like" data-href="http://www.jgmusicgroup.net" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
             <a href="index.shtml"><img src="images/record.png" id="record" alt="record"></a>
-            <a href="index.shtml"><img src="https://static.thumbtack.com/media/widgets/featured-pro.png" alt="Thumbtack Best Pro of 2015" style="position: absolute; top: 60px; left: 70px; z-index: 500;"></a>
+            <a href="index.shtml"><img src="https://static.thumbtack.com/media/widgets/featured-pro.png" alt="Thumbtack Best Pro of 2015" style="position: absolute; top: 60px; left: 71px; z-index: 500;"></a>
             <a href="index.shtml"><img src="images/jgeg-logo.png" id="logo" alt="JG Entertainment Group, Your Choice for Entertainment"></a>
             <p id="contact_info">Call: <span style="margin-right: 30px;"><a href="tel:4805804082">(480) 580-4082</a></span><br>E-mail: <span><a href="mailto:booking@jgentertainmentgroup.com">booking@jgentertainmentgroup.com</a></span></p>
             <nav>
                 <ul>
+                    <li>DJs, KJs &amp; Entertainers
+                        <ul>
+                            <li><a href="jgbongoman.shtml" title="Solo Entertainer/ Vibe Elevator">JGBongoman</a></li>
+                            <li><a href="djbongoman.shtml" title="Disc Jockey, Emcee &amp; Karaoke Host">DJBongoman</a></li>
+                            <li><a href="piano_man.shtml" title="Piano Music">The Piano Man</a></li>
+                            <li><a href="jd_acoustic.shtml" title="Acoustic Music">JD's Acoustic Show</a></li>
+                            <li><a href="dueling_pianos.shtml" title="Piano Duo">Dueling Pianos</a></li>
+                            <li><a href="wedding_singer.shtml" title="Wedding Singer">The Wedding Singer</a></li>
+                            <li><a href="vocal_heroes.shtml" title="Live Karaoke Band">Vocal Heroes Karaoke Band</a></li>
+                            <li><a href="80s_beyond_show.shtml" title="Retro 80s Show Act">JG's 80's &amp; Beyond Show</a></li>
+                        </ul>
+                    </li>
                     <li>Cover Bands
                         <ul>
                             <li><a href="lounge_katz.shtml" title="Variety Band">The Lounge Katz</a></li>
@@ -71,18 +83,6 @@
                             <li><a href="hellrazzors.shtml" title="ZZ Top Tribute Band">HellRazzors</a></li>
                             <li><a href="green_daze.shtml" title="Green Day Tribute Band">Green Daze</a></li>
                             <li><a href="skyntite.shtml" title="70's Disco Show Band">SkynTite</a></li>
-                        </ul>
-                    </li>
-                    <li>DJs, KJs &amp; Entertainers
-                        <ul>
-                            <li><a href="jgbongoman.shtml" title="Solo Entertainer/ Vibe Elevator">JGBongoman</a></li>
-                            <li><a href="djbongoman.shtml" title="Disc Jockey, Emcee &amp; Karaoke Host">DJBongoman</a></li>
-                            <li><a href="piano_man.shtml" title="Piano Music">The Piano Man</a></li>
-                            <li><a href="jd_acoustic.shtml" title="Acoustic Music">JD's Acoustic Show</a></li>
-                            <li><a href="dueling_pianos.shtml" title="Piano Duo">Dueling Pianos</a></li>
-                            <li><a href="wedding_singer.shtml" title="Wedding Singer">The Wedding Singer</a></li>
-                            <li><a href="vocal_heroes.shtml" title="Live Karaoke Band">Vocal Heroes Karaoke Band</a></li>
-                            <li><a href="80s_beyond_show.shtml" title="Retro 80s Show Act">JG's 80's &amp; Beyond Show</a></li>
                         </ul>
                     </li>
                 </ul>
