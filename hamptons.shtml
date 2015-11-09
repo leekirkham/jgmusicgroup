@@ -1,0 +1,54 @@
+<!--#include virtual="header.shtml" -->    
+<div class="content">
+    <div class="grid_2">
+        <!-- This area will almost never change -->
+        <!--#include virtual="default_sidebar.shtml" -->
+    </div>
+    <div class="grid_8">
+        <div class="artist">
+            <img src="images/artist_hamptons.jpg" alt="The Hamptons">
+            <h2>The Hamptons<br><span>(Cover Band)</span></h2>
+            <p>The Hamptons specialize in corporate events, weddings, and private parties. The band plays a wide variety of dance and party favorites ranging from today's latest hits to the oldies everyone knows by heart.</p>
+            <div class="clear" style="height: 20px;">&nbsp;</div>
+            <div class="tabs_wrapper">
+                <div id="original_tabs">
+                    <ul>
+                        <li class="active"><a class="media video" href="#tab1" rel="tab1">Video</a></li>
+                        <li><a class="media audio" href="#tab2" rel="tab2">Audio</a></li>
+                        <li><a class="media list" href="#tab3" rel="tab3">Playlist</a></li>
+                        <li><a class="media calendar" href="#tab4" rel="tab4">Schedule</a></li>
+                        <li><a class="media camera" href="#tab5" rel="tab5">Photos</a></li>
+                    </ul>
+                </div>
+                <div id="original_tabs_content">
+                    <div id="tab1" class="tab_content" style="display: block;">
+                        <iframe class="YTvideo" src="https://www.youtube.com/embed/4M0lMeuoCZc?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+                    </div>
+                    <div id="tab2" class="tab_content">
+                        <p>Audio coming soon</p>
+                    </div>
+                    <div id="tab3" class="tab_content">
+                        <!--<a href="docs/JG-Modrockers_playlist_20141229.pdf" target="_blank" class="pdf">View  JG &amp; the Modrockers playlist</a>-->
+                        <a href="docs/Hamptons-playlist.pdf" target="_blank" class="pdf">View The Hamptons playlist</a>
+                    </div>
+                    <div id="tab4" class="tab_content">
+                        <p>Schedule coming soon</p>
+                        <!--<iframe src="https://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5hv0lst8jst5e0sjsstlj434rc%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="540" height="250" frameborder="0" scrolling="no"></iframe>-->
+                    </div>
+                    <div id="tab5" class="tab_content minigallery">
+                        <a href="images/galleries/hamptons/hamptons_01.jpg" data-lightbox="minigallery-hptn" data-title="The Hamptons"><img src="images/galleries/hamptons/hamptons_01T.jpg" alt="The Hamptons" /></a>
+                        <a href="images/galleries/hamptons/hamptons_02.jpg" data-lightbox="minigallery-hptn" data-title="The Hamptons"><img src="images/galleries/hamptons/hamptons_02T.jpg" alt="The Hamptons" /></a>
+                        <a href="images/galleries/hamptons/hamptons_03.jpg" data-lightbox="minigallery-hptn" data-title="The Hamptons"><img src="images/galleries/hamptons/hamptons_03T.jpg" alt="The Hamptons" /></a>
+                        <a href="images/galleries/hamptons/hamptons_04.jpg" data-lightbox="minigallery-hptn" data-title="The Hamptons"><img src="images/galleries/hamptons/hamptons_04T.jpg" alt="The Hamptons" /></a>
+                        <a href="images/galleries/hamptons/hamptons_05.jpg" data-lightbox="minigallery-hptn" data-title="The Hamptons"><img src="images/galleries/hamptons/hamptons_05T.jpg" alt="The Hamptons" /></a>
+                    </div> 
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="grid_2 cat_list_container">
+        <!--#include virtual="cat_list_cover_bands.shtml" -->
+    </div>
+</div>
+<!--#include virtual="footer.shtml" -->
